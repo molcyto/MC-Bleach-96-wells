@@ -26,7 +26,7 @@ Test can be downloaded from following zenodo repository : https://doi.org/10.528
 <img src="https://github.com/molcyto/MC-Bleach-96-wells/blob/master/Screenshot%20Bleach_96wells_macro_v9.png" width="600">
 
 ## Explanation input dialog for Bleach_96wells_macro_v9.ijm
-- Work on current image or load from directory: Here you can choose to either use the current (e.g. a hyperstack with 96 positions and n time steps) image already displayed in ImageJ, or you load a files from a directory. The latter can be a series of timelapse stacks in one directory or a hyperstack image with for instance 96 or 384 positions and n time steps.
+- Work on current image or load from directory: Here you can choose to either use the current (e.g. a hyperstack with 96 positions and n time steps) image already displayed in ImageJ, or you load (a) file(s) from a directory. The latter can be a series of timelapse stacks in one directory or a hyperstack image with for instance 96 or 384 positions and n time steps.
 - 96 wells or 384 wells: here the well plate format can be selected.
 - Fixed threshold value or modal value threshold: Here you can choose how cells are recognized in the first time point image of the bleach series, either by selecting a fixed threshold intensity above which you assume there are cells, or a modal value determination that determines the modal (background) grey value and uses a statistical evaluation of pixels above this background.
 - In case of fixed threshold, what intensity over the background: in case the previous choice was fixed, this is the lower intensity threshold for selecting cells in the analysis, otherwise this is a dummy input.
