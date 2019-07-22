@@ -11,7 +11,7 @@ ImageJ v1.52p with Java 1.8.0_112 (64-bit) and on Fiji version 1.52p running wit
 
 BioFormats v.6.1.1 or v 6.1.0 (https://www.openmicroscopy.org/bio-formats/) must be installed in ImageJ. In Fiji this is installed automatically.
 
-For usage see main manuscript Secondary screen - Cellular brightness in mammalian cells.
+For usage see main manuscript Secondary screen - Photostability in mammalian cells.
 
 ## Usage
 ImageJ & FIJI macro's can be dragged and droppped on the toolbar, which opens the editor from which the macros can be started.
