@@ -23,7 +23,7 @@ Test can be downloaded from following zenodo repository : https://doi.org/10.528
 [download test data](https://zenodo.org/record/3338150/files/Testdata_SupSoftw_6_Bleach_96wells.zip?download=1)
 
 ## Screenshot of input dialog for Bleach_96wells_macro_v9.ijm
-<img src="https://github.com/molcyto/MC-Ratio-96-wells/blob/master/Screenshot%20Bleach_96wells_macro_v9.png" width="600">
+<img src="https://github.com/molcyto/MC-Bleach-96-wells/blob/master/Screenshot%20Bleach_96wells_macro_v9.png" width="600">
 
 ## Explanation input dialog for Bleach_96wells_macro_v9.ijm
 - Work on current image or load from directory: Here you can choose to either use the current (hyperstack with 96 positions and n time steps) image already displayed in ImageJ as flatfield image, or you load a stored image as flatfield image. This should be a ratiometric image from a spatially uniform object (such as a fluorescent plastic slide).
@@ -38,7 +38,7 @@ Test can be downloaded from following zenodo repository : https://doi.org/10.528
 - Create output 96/384 well non-bleached image: If selected, a multiwell image is added of the percent of initial intensity remaining in the last point of the acquired bleach time series. 
 - Create output 96/384 well initial intensity image: If selected, a multiwell image is added of the detected average RFP intensity. This is useful for inspecting wells with very bright or dim cells.
 - Start row/Column: In case not an entire 96 well or 384 well is screened but a subsection of the plate, the first well (row, column) can be chosen. In case a 24 well plate is used, a 24 well plate output can be made by selecting E7 as first well.
-- Acquisition in meandering mode: If selected the sequence of ratio images is assumed to be in the order A1-A12, B12-B1, C1-C12, D12-D1, E1-E12, F12-F1, G1-G12, H12-H1 for a 96 well plate. If not selected it assumes an order A1-A12, B1-B12, C1-C12, D1-D12, E1-E12, F1-F12, G1-G12, H1-H12.
+- Acquisition in meandering mode: If selected the sequence of ratio images is assumed to be in the order A1-A12, B12-B1, C1-C12, D12-D1, E1-E12, F12-F1, G1-G12, H12-H1 for a 96 well plate. If not selected it assumes an order A1-A12, B1-B12, C1-C12, D1-D12, E1-E12, F1-F12, G1-G12, H1-H12. 
 
 ## links
 [Visualizing heterogeneity](http://thenode.biologists.com/visualizing-heterogeneity-of-imaging-data/research/)
