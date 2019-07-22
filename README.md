@@ -14,7 +14,7 @@ BioFormats v.6.1.1 or v 6.1.0 (https://www.openmicroscopy.org/bio-formats/) must
 For usage see main manuscript Secondary screen - Photostability in mammalian cells.
 
 ## Usage
-ImageJ & FIJI macro's can be dragged and droppped on the toolbar, which opens the editor from which the macros can be started.
+ImageJ & FIJI macro's can be dragged and dropped on the toolbar, which opens the editor from which the macros can be started.
 Macros can also be loaded via Plugins->Macros menu, either use Edit or Run.
 
 ## Test data
