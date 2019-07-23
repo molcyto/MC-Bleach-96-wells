@@ -18,9 +18,9 @@ ImageJ & FIJI macro's can be dragged and dropped on the toolbar, which opens the
 Macros can also be loaded via Plugins->Macros menu, either use Edit or Run.
 
 ## Test data
-Test can be downloaded from following zenodo repository : https://doi.org/10.5281/zenodo.3338264
+Test can be downloaded from following zenodo repository : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3347150.svg)](https://doi.org/10.5281/zenodo.3347150)
 
-[download test data](https://zenodo.org/record/3338264/files/Testdata_SupSoftw_6_Bleach_96wells.zip?download=1)
+[download test data](https://zenodo.org/record/3347150/files/Testdata_SupSoftw_6_Bleach_96wells.zip?download=1)
 
 ## Screenshot of input dialog for Bleach_96wells_macro_v9.ijm
 <img src="https://github.com/molcyto/MC-Bleach-96-wells/blob/master/Screenshot%20Bleach_96wells_macro_v9.png" width="600">
